@@ -1,0 +1,28 @@
+name: BrianLind199
+favicon: null
+layout_spectrum: 0.1593502378091216
+typography_spectrum: 0.08176995138637722
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11519956239499152
+  lightness: 0.8729324508458376
+  saturation: 0.8659137065988034
+  rhythmicContrast: 0.5210287645459175
+purpose: []
